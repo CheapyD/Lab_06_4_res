@@ -1,0 +1,4 @@
+﻿  Lab_06_4_res.cpp
+C:\Users\Angry\source\repos\Lab_06_4_res\Lab_06_4_res\Lab_06_4_res.cpp(48,13): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Angry\source\repos\Lab_06_4_res\Lab_06_4_res\Lab_06_4_res.cpp(110,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab_06_4_res.vcxproj -> C:\Users\Angry\source\repos\Lab_06_4_res\Debug\Lab_06_4_res.exe
